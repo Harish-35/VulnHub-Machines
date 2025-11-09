@@ -14,7 +14,7 @@ Welcome to the DC-8 VulnHub machine repository. This repository contains documen
 - [Approach & Enumeration (high-level)](#approach--enumeration-high-level)
 - [Hints (if you get stuck)](#hints-if-you-get-stuck)
 - [What you will find (non-spoiler)](#What-you-will-find-non-spoiler)
-- [Mitigations & Fixes](#Mitigations & Fixes)
+- [Mitigations & Fixes](#Mitigations-&-Fixes)
 - [Contributing](#Contributing)
 - [License](#License)
 
