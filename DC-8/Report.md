@@ -29,10 +29,20 @@ I setting up a Bridge Adapter Network for both target machine and Attacker machi
 
 My setup is the following :
 
+Attacker Machine:
 <img width="965" height="587" alt="1" src="https://github.com/user-attachments/assets/d8362018-2328-4438-b7b6-813f30898d76" />
-
+Target Machine:
 <img width="950" height="587" alt="2" src="https://github.com/user-attachments/assets/47c4ef2e-8909-49f8-867f-02482aa0e81f" />
 
+First let’s run netdiscover on the network to detect the target IPv4 address.
 
+```
+sudo netdiscover -r 192.168.1.63
+```
+
+<img width="1920" height="1022" alt="Screenshot_2025-11-08_00_39_23" src="https://github.com/user-attachments/assets/cafb279d-4ceb-4cc7-b43f-db2b98255e5e" />
+
+
+# 2.Reconnaissance
 
 
